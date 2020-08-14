@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\bin\Debug\netcoreapp3.1\Yildiz_Yazdirma.exe
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\bin\Debug\netcoreapp3.1\Yildiz_Yazdirma.deps.json
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\bin\Debug\netcoreapp3.1\Yildiz_Yazdirma.runtimeconfig.json
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\bin\Debug\netcoreapp3.1\Yildiz_Yazdirma.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\bin\Debug\netcoreapp3.1\Yildiz_Yazdirma.dll
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\bin\Debug\netcoreapp3.1\Yildiz_Yazdirma.pdb
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\obj\Debug\netcoreapp3.1\Yildiz_Yazdirma.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\obj\Debug\netcoreapp3.1\Yildiz_Yazdirma.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\obj\Debug\netcoreapp3.1\Yildiz_Yazdirma.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\obj\Debug\netcoreapp3.1\Yildiz_Yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\obj\Debug\netcoreapp3.1\Yildiz_Yazdirma.dll
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\obj\Debug\netcoreapp3.1\Yildiz_Yazdirma.pdb
+C:\Users\Administrator\source\repos\Yildiz_Yazdirma\Yildiz_Yazdirma\obj\Debug\netcoreapp3.1\Yildiz_Yazdirma.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Yildiz_Yazdirma/1.0.0": {
+        "runtime": {
+          "Yildiz_Yazdirma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yildiz_Yazdirma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
